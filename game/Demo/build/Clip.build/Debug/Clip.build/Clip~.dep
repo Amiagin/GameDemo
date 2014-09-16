@@ -1,0 +1,10 @@
+6aa61d8e6ddc3a49bf5d7c34e8f9276e 481f1547bcb98d72f97b2ad4cfa16717 ffffffffffffffffffffffffffffffff 0 /Users/christopherdelrosario/Desktop/game/Demo/build/Debug/Clip
+0000000007fe70c40000000000000fac fbd182d70a4d8d2d7c16dd8257f26044 ffffffffffffffffffffffffffffffff 5976 /Users/christopherdelrosario/Desktop/game/Demo/build/Clip.build/Debug/Clip.build/Objects-normal/x86_64/input.o
+0000000007fbb358000000000000016c e04d52507a8d715baef1d15a41f524b6 ffffffffffffffffffffffffffffffff 31844 /Users/christopherdelrosario/Desktop/game/Demo/build/Clip.build/Debug/Clip.build/Objects-normal/x86_64/level.o
+0000000007fb0c5c0000000000001c9e a594d0a5842f0af29ff749ebe2ee31df ffffffffffffffffffffffffffffffff 14640 /Users/christopherdelrosario/Desktop/game/Demo/build/Clip.build/Debug/Clip.build/Objects-normal/x86_64/texture.o
+0000000007fb3a3e0000000000000d9e 45495b3c7281d5a9b7349548b59cbd05 ffffffffffffffffffffffffffffffff 8108 /Users/christopherdelrosario/Desktop/game/Demo/build/Clip.build/Debug/Clip.build/Objects-normal/x86_64/render.o
+0000000007fb0c920000000000000b2b 3aebc301ebceb24622f16eff50ac1375 ffffffffffffffffffffffffffffffff 9472 /Users/christopherdelrosario/Desktop/game/Demo/build/Clip.build/Debug/Clip.build/Objects-normal/x86_64/asset.o
+0000000007fe74c80000000000000e26 e703f5216dfde5546730fcc2c840a5b9 ffffffffffffffffffffffffffffffff 29188 /Users/christopherdelrosario/Desktop/game/Demo/build/Clip.build/Debug/Clip.build/Objects-normal/x86_64/scene.o
+0000000007fb0cfa0000000000000754 514ae73c52aca1f43351c1a140fdf7e3 ffffffffffffffffffffffffffffffff 67680 /Users/christopherdelrosario/Desktop/game/Demo/build/Clip.build/Debug/Clip.build/Objects-normal/x86_64/background.o
+0000000007fb0f8c0000000000000907 9912fa8640ff4960dbd4a5f03f768a2a ffffffffffffffffffffffffffffffff 66960 /Users/christopherdelrosario/Desktop/game/Demo/build/Clip.build/Debug/Clip.build/Objects-normal/x86_64/player.o
+0000000007fb01a40000000000000573 84576d0a2cd05f25e83d5a234ee828ab ffffffffffffffffffffffffffffffff 31708 /Users/christopherdelrosario/Desktop/game/Demo/build/Clip.build/Debug/Clip.build/Objects-normal/x86_64/main.o
